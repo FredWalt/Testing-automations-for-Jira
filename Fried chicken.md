@@ -14,3 +14,5 @@ Fritering: Hetta upp oljan i en tjockbottnad kastrull till ca 160˚C, ha ett loc
 
 
 HEllo i love fries
+
+No actually I donöt
