@@ -10,3 +10,7 @@ Majjodip: Skala och skiva löken tunt. Stek den i oljan på medelvärme tills de
 Mixa lök och majonnäs tills såsen är slät i en matberedare.
 
 Fritering: Hetta upp oljan i en tjockbottnad kastrull till ca 160˚C, ha ett lock till hands under friteringen. Fritera kycklingbitarna tills innertemperaturen är 72˚C, 4-5 minuter.
+
+
+
+HEllo i love fries
