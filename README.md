@@ -23,7 +23,7 @@ gantt
 
 
 
-```geojson
+```mermaid
 {
   "type": "FeatureCollection",
   "features": [
@@ -50,7 +50,7 @@ gantt
 }
 ```
 
-```stl
+```mermaid
 solid cube_corner
   facet normal 0.0 -1.0 0.0
     outer loop
@@ -81,4 +81,13 @@ solid cube_corner
     endloop
   endfacet
 endsolid
+```
+
+
+```mermaid
+   A(Coffee machine <br>not working) --> B{Machine has power?}
+   B -->|No| H(Plug in and turn on)
+   B -->|Yes| C{Out of beans or water?} -->|Yes| G(Refill beans and water)
+   C -->|No| D{Filter warning?} -->|Yes| I(Replace or clean filter)
+   D -->|No| F(Send for repair)
 ```
