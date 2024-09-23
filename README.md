@@ -1,8 +1,3 @@
 # Testing-automations-for-Jira
 
-
-
-ausd8uaidusdaisudiausyi
-
-
-Llalalalalaall
+hej hej hej
